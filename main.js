@@ -261,7 +261,7 @@ function render ()  { //1.4
     clearElement(listContainer); //1.5
     renderList(); 
     const selectedList = lists.find(list => list.id === selectedListId); 
-    if(selectedListId == "null") { 
+    if(selectedListId == "null" || selectedListId === undefined) { 
         listDisplayContainer.style.display = 'none';
     } else { 
        listDisplayContainer.style.display = ''; 
