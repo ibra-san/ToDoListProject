@@ -1,6 +1,8 @@
-# ToDolist-2
+# ToDolistProject
 
-This is the second version of IM-SAN todo list. 
+Thanks and welcome to my To Do List Project. 
+You can visit the live version of the project by clicking on the link below: 
+https://www.ibrasan.rf.gd/ToDolist-2/index.html
 
 ## Updates to version 1
 
